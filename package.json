@@ -1,0 +1,10 @@
+{
+  "name": "rest-api-with-firebase",
+  "version": "1.0.0",
+  "description": "Simple project to setup firebase ",
+  "main": "index.js",
+  "repository": "git@github.com:sachinjangid/rest-api-with-firebase.git",
+  "author": "Sachin Jangid",
+  "license": "MIT",
+  "private": false
+}
